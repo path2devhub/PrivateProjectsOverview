@@ -118,4 +118,4 @@ It determines:
 
 This project is under active development, and the source code is currently private due to ongoing enhancements and architectural refinement.
 
-Interested in learning more or reviewing the implementation? Please **contact me** for an architecture walkthrough or demonstration.
+Interested in learning more or reviewing the implementation? Please [Contact me](mailto:path2devhub@gmail.com) for an architecture walkthrough or demonstration.
