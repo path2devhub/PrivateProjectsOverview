@@ -1,6 +1,5 @@
-# Private Projects Overview
-
-Welcome! This is a portfolio of some of my key projects across healthcare, logistics, HR, finance, and productivity domains. These projects are **actively developed** and currently **private**, but detailed overviews are available here. 
+# Technical Project Portfolio
+A collection of hands-on software projects demonstrating modern backend engineering practices, distributed systems design, microservices architecture, and cloud-native development using .NET and related technologies.
 
 Interested in learning more? Feel free to reach out via [email](mailto:path2devhub@gmail.com).
 
@@ -15,7 +14,11 @@ Interested in learning more? Feel free to reach out via [email](mailto:path2devh
 > A logistics and shipment tracking platform using event-driven microservices architecture (RabbitMQ, Kafka, .NET 9, MongoDB, SQL Server).
 
 ---
+### [Credit Decision Engine](./CreditDecisionEngine.md)
 
+> A full-stack loan evaluation system built with ASP.NET Core (.NET 9), Angular, and Clean Architecture that assesses credit risk, determines loan eligibility, and provides rule-based lending decisions.
+
+---
 ### [Employee Leave Management System](./EmployeeLeaveSystem.md)
 > A role-based leave management app built with ASP.NET Core MVC and MS SQL Server.
 
@@ -30,24 +33,18 @@ Interested in learning more? Feel free to reach out via [email](mailto:path2devh
 > A modular Node.js + MongoDB system for basic banking operations like user management, transfers, and transaction history.
 
 ---
-## Why a Showcase Instead of Public Repos?
+## Engineering Focus Areas
 
-While I actively build full-stack and microservices-based applications, many of my projects remain private due to:
+- Backend API Development
+- Microservices Architecture
+- Event-Driven Systems
+- Database Design
+- Messaging Systems
+- Cloud-Native Development
+- Containerization
+- Clean Architecture Principles
 
-- Ongoing feature development and architectural refinements
+## Note
+Some project source repositories are private due to ongoing development and architectural refinement. Additional details, including architecture discussions, demonstrations, and solution walkthroughs, can be shared upon request.
 
-- Proprietary or sensitive integrations (e.g., messaging pipelines, auth flows)
-
-- Complex backend logic not ready for open source exposure
-
-Rather than share incomplete or redacted code publicly, this Project Showcase is designed to give recruiters and hiring teams a clear, structured preview of:
-
-- Technologies and frameworks I’ve worked with
-
-- Real-world system designs and clean architecture practices
-
-- Domain-specific solutions in healthcare, logistics, banking, and more
-
-- UI/UX examples, architecture diagrams, and service-level breakdowns
-
-If you'd like to see the actual codebase, schedule a walkthrough, or discuss any project in more detail, feel free to connect with me directly via [email](mailto:path2devhub@gmail.com)
+If you would like to review the codebase, schedule a walkthrough, or discuss any project in greater detail, please feel free to contact me via [email](mailto:path2devhub@gmail.com)
