@@ -432,6 +432,10 @@ src/app
 
 ![creditdecisionengine-ui-login](./assets/creditdecisionengine-ui-login.png)
 
+### Register
+
+![creditdecisionengine-ui-register](./assets/creditdecisionengine-ui-register.png)
+
 ### Customer Dashboard
 
 ![creditdecisionengine-ui-customer](./assets/creditdecisionengine-ui-customer.png)
